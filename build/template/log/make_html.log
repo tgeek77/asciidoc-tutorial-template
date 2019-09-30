@@ -1,0 +1,6 @@
+Tue 01 Oct 2019 12:09:14 AM CEST
+tar: static/js/highlight.min.js: File removed before we read it
+tar: static/js/jquery-1.10.2.min.js: File removed before we read it
+tar: static/js/script.js: File removed before we read it
+[32mSingle HTML book built with REMARKS=0, DRAFT=no and META=0:[0m
+[32m/home/jsevans/git/asciidoc-tutorial-template/build/template/single-html/template/[0m

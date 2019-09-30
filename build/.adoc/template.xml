@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Task 1</title>
+<subtitle>Task One</subtitle>
+<date>2019-09-30</date>
+</info>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="1">
+<colspec colname="col_1" colwidth="100*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara role="lead">Description:</simpara>
+<simpara>In this section you will create an introduction.</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<section xml:id="_task_1_task_one">
+<title>Task 1: Task One</title>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>Step 1 Finish the following task:</simpara>
+<literallayout class="monospaced">Perform this task</literallayout>
+</listitem>
+<listitem>
+<simpara>Step 2 Enter the following Number:</simpara>
+<simpara><literal><emphasis role="strong">bold monospace</emphasis></literal></simpara>
+</listitem>
+<listitem>
+<simpara>Step 3 Go to this url:</simpara>
+<simpara><literal><emphasis><link xl:href="https://asciidoc.org">https://asciidoc.org</link></emphasis></literal></simpara>
+</listitem>
+</orderedlist>
+</section>
+<section xml:id="_task_2_task_two">
+<title>Task 2: Task Two</title>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>Step 1</simpara>
+</listitem>
+<listitem>
+<simpara>Step 2</simpara>
+</listitem>
+<listitem>
+<simpara>Step 3</simpara>
+</listitem>
+</orderedlist>
+<note>
+<title>optional title</title>
+<simpara>This is an example
+      single-paragraph note.</simpara>
+</note>
+<warning>
+<simpara>Warning.</simpara>
+</warning>
+<caution>
+<simpara>Caution.</simpara>
+</caution>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="1">
+<colspec colname="col_1" colwidth="100*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>Description:
+In this section you will created a summary.</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+</section>
+</article>

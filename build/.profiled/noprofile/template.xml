@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<?asciidoc-toc?><?asciidoc-numbered?><article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Task 1</title>
+<subtitle>Task One</subtitle>
+<date>2019-09-30</date>
+</info>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="1">
+<colspec colname="col_1" colwidth="100*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><para role="lead">Description:</para>
+<para>In this section you will create an introduction.</para></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<section xml:id="_task_1_task_one">
+<title>Task 1: Task One</title>
+<orderedlist numeration="arabic">
+<listitem>
+<para>Step 1 Finish the following task:</para>
+<screen>Perform this task</screen>
+</listitem>
+<listitem>
+<para>Step 2 Enter the following Number:</para>
+<para><literal><emphasis role="strong">bold monospace</emphasis></literal></para>
+</listitem>
+<listitem>
+<para>Step 3 Go to this url:</para>
+<para><literal><emphasis><link xl:href="https://asciidoc.org">https://asciidoc.org</link></emphasis></literal></para>
+</listitem>
+</orderedlist>
+</section>
+<section xml:id="_task_2_task_two">
+<title>Task 2: Task Two</title>
+<orderedlist numeration="arabic">
+<listitem>
+<para>Step 1</para>
+</listitem>
+<listitem>
+<para>Step 2</para>
+</listitem>
+<listitem>
+<para>Step 3</para>
+</listitem>
+</orderedlist>
+<note>
+<title>optional title</title>
+<para>This is an example
+      single-paragraph note.</para>
+</note>
+<warning>
+<para>Warning.</para>
+</warning>
+<caution>
+<para>Caution.</para>
+</caution>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="1">
+<colspec colname="col_1" colwidth="100*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><para>Description:
+In this section you will created a summary.</para></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+</section>
+</article>
